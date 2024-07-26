@@ -1,0 +1,38 @@
+/* variables */
+@import url("./variables.css");
+
+/* Defaults */
+*,
+html,
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+    scroll-behavior: smooth;
+    color-scheme: dark;
+}
+body {
+    color: var(--off-white);
+    background: linear-gradient(120deg, var(--light-black), var(--black))
+        no-repeat;
+    min-height: 100vh;
+    font-family: var(--main-font);
+    font-size: var(--normal-font-size);
+}
+
+a {
+    text-decoration: none;
+    color: var(--hyper-link-main-color);
+    &:hover {
+        color: var(--hover-hyper-link-main-color);
+    }
+}
+li {
+    list-style-type: none;
+}
+img {
+    width: 10rem;
+    aspect-ratio: 1;
+}

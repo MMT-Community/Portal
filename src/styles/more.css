@@ -1,0 +1,17 @@
+#command,
+.command {
+    cursor: text;
+    height: 50px;
+    color: #73abad;
+    text-shadow: 0 0 5px #73abad;
+}
+.terminal-header {
+    background: #1b2635;
+    color: #ffffff;
+    padding: 1rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+

@@ -1,0 +1,18 @@
+{
+    "settings": {
+        "logo": "https://i.postimg.cc/SNxQ6Vzb/MMT-Logo.png"
+    },
+    "mmt": {
+        "name": "MMT",
+        "age": 18,
+        "country": { "EG": "Egypt" },
+        "city": "NOT a Certain Region",
+        "socialMedia": {
+            "facebook": "https://www.facebook.com/profile.php?id=61561441177614",
+            "instagram": "https://www.instagram.com/mmtcommunityguide/",
+            "youtube": "https://www.youtube.com/@MMT-Community",
+            "github": "https://github.com/MMT-Community"
+        },
+        "group": { "male": "", "female": "" }
+    }
+}
